@@ -1,0 +1,14 @@
+C:\Users\48571\source\repos\StringEquals\bin\Debug\net8.0\StringEquals.exe
+C:\Users\48571\source\repos\StringEquals\bin\Debug\net8.0\StringEquals.deps.json
+C:\Users\48571\source\repos\StringEquals\bin\Debug\net8.0\StringEquals.runtimeconfig.json
+C:\Users\48571\source\repos\StringEquals\bin\Debug\net8.0\StringEquals.dll
+C:\Users\48571\source\repos\StringEquals\bin\Debug\net8.0\StringEquals.pdb
+C:\Users\48571\source\repos\StringEquals\obj\Debug\net8.0\StringEquals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48571\source\repos\StringEquals\obj\Debug\net8.0\StringEquals.AssemblyInfoInputs.cache
+C:\Users\48571\source\repos\StringEquals\obj\Debug\net8.0\StringEquals.AssemblyInfo.cs
+C:\Users\48571\source\repos\StringEquals\obj\Debug\net8.0\StringEquals.csproj.CoreCompileInputs.cache
+C:\Users\48571\source\repos\StringEquals\obj\Debug\net8.0\StringEquals.dll
+C:\Users\48571\source\repos\StringEquals\obj\Debug\net8.0\refint\StringEquals.dll
+C:\Users\48571\source\repos\StringEquals\obj\Debug\net8.0\StringEquals.pdb
+C:\Users\48571\source\repos\StringEquals\obj\Debug\net8.0\StringEquals.genruntimeconfig.cache
+C:\Users\48571\source\repos\StringEquals\obj\Debug\net8.0\ref\StringEquals.dll
